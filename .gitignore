@@ -1,0 +1,24 @@
+# IDE
+.idea/
+.vscode/
+*.iml
+*.eml
+.metadata/
+.settings/
+
+# Build outputs
+out/
+bin/
+target/
+build/
+*.class
+*.jar
+*.war
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Misc
+META-INF/
+*.exe

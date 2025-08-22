@@ -9,9 +9,12 @@ The project includes a graphical interface, user accounts, saving/loading progre
 
 ### 🃏 Core Gameplay
 
-- `Card`, `Deck`, `Player`, `Hand` classes
-- Shuffling, drawing, comparing cards
-- Score system with win/lose conditions
+- `deck` package → Card creation, catalog, and shuffling logic  
+- `file` package → Reading and saving users/games  
+- `game` package → Core game engine, game states, and game list management  
+- `gui` package → Menus, game screens, sound system  
+- `player` package → Human, guest, computer players, and user list management  
+- `main` package → Main entry point for starting the application  
 
 ### 🖥️ Graphical User Interface
 

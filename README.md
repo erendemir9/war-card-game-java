@@ -51,3 +51,8 @@ The project includes a graphical interface, user accounts, saving/loading progre
 - Planned: **SQL Database integration**
 
 ---
+
+## 📜 License
+
+This project is licensed under the **MIT License**.  
+See the [LICENSE](./LICENSE) file for details.
